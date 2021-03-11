@@ -62,6 +62,7 @@ const SidebarContainer = styled.div`
   max-width: 260px;
   margin-top: 60px;
   padding-top: 15px;
+
   
 
   > hr {
@@ -84,6 +85,7 @@ const SidebarHeader = styled.div`
 `;
 const SidebarInfo = styled.div`
   flex: 1;
+
 
   > h2 {
     font-size: 15px;

@@ -54,7 +54,7 @@ export default App;
 
 const AppBody = styled.div`
   display: flex;
-  height: 100vh;
+  height: 100vh !important;
 `;
 const AppLoading = styled.div`
   display: grid;

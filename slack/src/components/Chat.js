@@ -85,6 +85,7 @@ const ChatContainer = styled.div`
   flex-grow: 1;
   overflow-y: scroll;
   margin-top: 80px;
+
   
 `;
 
@@ -92,6 +93,9 @@ const Header = styled.div`
   display: flex;
   justify-content: space-between;
   padding: 20px;
+  position: sticky; 
+  top: 0;
+  background-color: white;
   
   border-bottom: 1px solid lightgray;
 `;
